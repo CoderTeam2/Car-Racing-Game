@@ -17,7 +17,7 @@ var car2Y = 300;
 
 function loadItems() {
     bgObj.onload = uploadBg;
-    bgObj.src = "Track.jpg";
+    bgObj.src = "Track1.jpg";
 
     car1.onload = uploadCar1;
     car1.src = "Car1.png";
