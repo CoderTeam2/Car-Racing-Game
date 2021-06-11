@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url("Bg.gif");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+canvas{
+    border: 5px,ridge,white;
+}
+#note{
+    color: red !important;
+}
+.main{
+    color: white;
+    font-size: 20px;
+}
